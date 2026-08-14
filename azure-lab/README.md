@@ -11,12 +11,13 @@ Este diretório possui anotações e práticas realizadas durante o laboratório
 🗂**Estrutura do diretório**
 ```
 azure-lab/
- ├── images/                               # Capturas de tela do LAB
- |    ├── Screenshot_Test_Result.png       # Captura de tela do Resultado do Teste
- |    └── Screenshot_Upload_Audio.png      # Captura de tela do Upload do arquivo
- |── README.md                             # Documento principal
- ├── language/                             # Testes e anotações do Language Studio
- └── speech/                               # Testes e anotações do Speech Studio
+ ├── images/
+ |     ├──  Screenshot_Erro_Language_Studio.png       # Capturas de tela do LAB
+ |     ├── Screenshot_Test_Result.png                 # Captura de tela do Resultado do Teste
+ |     └── Screenshot_Upload_Audio.png                # Captura de tela do Upload do arquivo
+ |── README.md                                        # Documento principal
+ ├── language/                                        # Testes e anotações do Language Studio
+ └── speech/                                          # Testes e anotações do Speech Studio
 
 ```
 
