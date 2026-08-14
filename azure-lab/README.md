@@ -11,10 +11,11 @@ Este diretório possui anotações e práticas realizadas durante o laboratório
 🗂**Estrutura do diretório**
 ```
 azure-lab/
- ├── speech/                 # Testes e anotações do Speech Studio
- ├── language/               # Testes e anotações do Language Studio
+ |── README.md               # Documento principal
  ├── images/                 # Capturas de tela do LAB
- └── README.md               # Documento principal
+ ├── language/               # Testes e anotações do Language Studio
+ └── speech/                 # Testes e anotações do Speech Studio
+
 ```
 
 🎤**Speech Studio - Transcrição do Áudio**
