@@ -16,7 +16,7 @@ azure-lab/
  |     ├── Screenshot_Erro_Language_Studio.png        # Captura de tela do Erro no Language Studio
  |     ├── Screenshot_Original_Text.png               # Captura de tela com detalhes da Análise de Sentimento
  |     ├── Screenshot_Test_Result.png                 # Captura de tela do Resultado do Teste
- |     └── Screenshot_Upload_Audio.png                # Captura de tela do Upload do arquivo
+       └── Screenshot_Upload_Audio.png                # Captura de tela do Upload do arquivo
  |── README.md                                        # Documento principal
  ├── language/                                        # Testes e anotações do Language Studio
  └── speech/                                          # Testes e anotações do Speech Studio
