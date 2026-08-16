@@ -31,23 +31,43 @@ azure-lab/
 
 
 Batch speech to text
+
 Test results
-Model: 
-20250808
-Profanity filter mode: 
-Masked
-Language: 
-English (United States)
-Punctuation mode: 
-DictatedAndAutomatic
-Speaker diarization: 
-No
-Word level timestamp: 
-Yes (display); No (lexical)
+
+Model: 20250808
+
+Profanity filter mode: Masked
+
+Language: English (United States)
+
+Punctuation mode: DictatedAndAutomatic
+
+Speaker diarization: No
+
+Word level timestamp: Yes (display); No (lexical)
 
 [Channel 0] 
 Timmy feels like a combination of dance, choreography, writing and story, and like magic that you will never know the secrets to. I'll take the odd. 
 
 [Channel 1] 
 Timmy feels like a combination of dance, choreography, writing and story and like magic that you will never know the secrets to. I'll take the the audience. 
+
+
+🧠 **Language Studio - Análise de Sentimentos (Exemplo do Cognitive Services)**
+
+Durante a etapa de análise de linguagem natural, não foi possível acessar o **Azure Language Studio** devido a restrições de autenticação com contas pessoais (MSA).
+
+Para cumprir o objetivo do laboratório, utilizei o exemplo oficial disponível no site do Azure Cognitive Services, que demonstra o funcionamento da ferramenta de *Sentiment and Opinion Mining*.
+
+O Language Studio identifica automaticamente:
+
+- **Sentimentos positivos** (ex.: veste perfeitamente, lindo, maravilhosamente confortável);
+- **Sentimentos mistos** (ex.: dificuldade com o zíper);
+- **Targets** (elementos avaliados, como zíper, cor, material);
+- **Assessments** (opiniões associadas a cada target).
+
+Essas marcações permitem visualizar como o modelo analisa aspectos específicos de um produto e associa cada um a um sentimento correspondente. A captura de tela utilizada encontra-se na pasta ```/images```.
+
+
+
 
