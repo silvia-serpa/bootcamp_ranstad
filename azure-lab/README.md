@@ -11,8 +11,10 @@ Este diretório possui anotações e práticas realizadas durante o laboratório
 🗂**Estrutura do diretório**
 ```
 azure-lab/
- ├── images/
- |     ├──  Screenshot_Erro_Language_Studio.png       # Capturas de tela do LAB
+ ├── images/                                          # Capturas de tela do LAB
+ |     ├── Screenshot_Analyzed_Sentiment.png          # Captura de tela da Análise de Sentimento
+ |     ├── Screenshot_Erro_Language_Studio.png        # Captura de tela do Erro no Language Studio
+ |     ├── Screenshot_Original_Text.png               # Captura de tela com detalhes da Análise de Sentimento
  |     ├── Screenshot_Test_Result.png                 # Captura de tela do Resultado do Teste
  |     └── Screenshot_Upload_Audio.png                # Captura de tela do Upload do arquivo
  |── README.md                                        # Documento principal
