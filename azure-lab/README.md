@@ -30,9 +30,7 @@ azure-lab/
 - Prints disponíveis na pasta ```/images```
 
 
-Batch speech to text
-
-Test results
+*Batch speech to text - Test results*
 
 Model: 20250808
 
@@ -67,6 +65,24 @@ O Language Studio identifica automaticamente:
 - **Assessments** (opiniões associadas a cada target).
 
 Essas marcações permitem visualizar como o modelo analisa aspectos específicos de um produto e associa cada um a um sentimento correspondente. A captura de tela utilizada encontra-se na pasta ```/images```.
+
+
+📘 **Conclusão**
+
+Este laboratório permitiu explorar duas ferramentas da Azure AI voltadas para processamento de fala e linguagem natural:
+
+- Speech Studio, utilizado com sucesso para transcrição automática de áudio;
+- Language Studio, cuja demonstração foi realizada por meio de um exemplo oficial do Azure Cognitive Services devido a limitações de acesso com contas pessoais.
+
+Mesmo com essa adaptação, foi possível compreender o fluxo completo:
+
+- Transformar áudio em texto;
+
+- Aplicar análise de sentimentos ao conteúdo textual;
+
+- Registrar resultados, prints e estrutura do projeto no GitHub;
+
+O repositório final documenta todo o processo, incluindo dificuldades encontradas e soluções adotadas, mantendo alinhamento com os objetivos do LAB.
 
 
 
