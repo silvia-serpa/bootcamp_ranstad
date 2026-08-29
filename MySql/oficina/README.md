@@ -38,6 +38,6 @@ Cada veículo pertence a um cliente e é atendido por uma equipe de mecânicos.
 - Cada peça possui valor unitário, conforme narrativa.
 
 ## 📂 Arquivos
-- `oficina.pdf` – Diagrama conceitual.
+- `OS_oficina_V3.pdf` – Diagrama conceitual.
 - `README.md` – Documentação do projeto.
 
